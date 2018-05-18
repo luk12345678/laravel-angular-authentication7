@@ -1,6 +1,4 @@
 <?php
-
-
 Route::group([
 
     'middleware' => 'api',
